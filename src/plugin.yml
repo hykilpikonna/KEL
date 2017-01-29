@@ -1,0 +1,8 @@
+name: "KELores"
+version: 0.5.2_b2_t6
+description: "Lores"
+author: kilpikonna
+main: cc.moecraft.kelores.KELores
+commands:
+    kel:
+        description: kel give type id
